@@ -20,5 +20,5 @@
 ---
 
 ## 📫 연락처  
-- **이메일**: chobocho990815@gmail.com  
+- **이메일**: chobocho990815@gmail.com   
 - **GitHub**: [choseongjin0815](https://github.com/choseongjin0815) 
