@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 <!-- 타이틀 부분 -->
 <div align="center">
   <h1>👋 안녕하세요! 백엔드 개발자 조성진입니다!</h1>
@@ -39,5 +40,3 @@
   </a>
   <br><br>
 </div>
-
-![choseongjin0815's GitHub stats](https://github-readme-stats.vercel.app/api?username=choseongjin0815&show_icons=true&theme=radical)
