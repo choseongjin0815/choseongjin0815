@@ -4,11 +4,6 @@
   <h1>👋 안녕하세요! 백엔드 개발자 조성진입니다!</h1>
 </div>
 
-<!-- 소개 -->
-<div align="center">
-  <h3>🔥 관심 분야: Back-End 개발 🔥</h3>
-</div>
-
 <br>
 
 <!-- Main Tech Stack -->
