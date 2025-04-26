@@ -38,7 +38,6 @@
     <img src="https://img.shields.io/badge/chobocho990815@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  <a href="https://github.com/choseongjin0815">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
+
+![choseongjin0815's GitHub stats](https://github-readme-stats.vercel.app/api?username=choseongjin0815&show_icons=true&theme=radical)
