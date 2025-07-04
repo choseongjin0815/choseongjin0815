@@ -25,7 +25,7 @@
 <span style="display:inline-block;">![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)</span>
 <span style="display:inline-block;">![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)</span>
 
-## ⚙️ DevOps  
+## ⚙️ DevOps   
 <span style="display:inline-block;">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</span>
 
 <br>
