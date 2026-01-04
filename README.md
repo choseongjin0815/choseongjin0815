@@ -29,7 +29,7 @@
 <br>
   
 <!-- Contact -->
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Email 📫</h3>
 <div align="center">
   <a href="mailto:chobocho990815@gmail.com">
     <img src="https://img.shields.io/badge/chobocho990815@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
