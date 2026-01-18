@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seongjin's%20GitHub%20)
-<!-- 타이틀 부분 -->
  
 ##  Backend  
 <span style="display:inline-block;">![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)</span>
