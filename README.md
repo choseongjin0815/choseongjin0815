@@ -4,7 +4,7 @@
 <span style="display:inline-block;">![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)</span>
 <span style="display:inline-block;">![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</span>
 <span style="display:inline-block;">![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)</span>
-<span style="display:inline-block;">![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)</span>
+<span style="display:inline-block;">![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)</span>
 <span style="display:inline-block;">![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)</span> 
 
 ##  Frontend  
