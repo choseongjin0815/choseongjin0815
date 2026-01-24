@@ -24,10 +24,4 @@
 <span style="display:inline-block;">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</span>
 <br>
   
-<!-- Contact -->
-<h3 align="center">📫 Email 📫</h3>
-<div align="center">
-  <a href="mailto:chobocho990815@gmail.com">
-    <img src="https://img.shields.io/badge/chobocho990815@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
